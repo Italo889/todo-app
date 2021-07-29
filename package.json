@@ -1,7 +1,7 @@
 {
-  "name": "code",
+  "name": "To-Do API Rest",
   "version": "1.0.0",
-  "description": "",
+  "description": "Projeto criado durante o módulo 4 do curso da Resilia",
   "main": "index.js",
   "scripts": {
     "test": "jest",
@@ -10,7 +10,7 @@
     "populate": "node ./src/infra/create-and-populate.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Italo Nasicmento",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
